@@ -48,6 +48,12 @@ public class TablaMultiplicarApplication {
 	  }
 			  
 			  break;
+
+			  case 3:
+
+			  System.out.println("Gracias, Adios");
+	  
+			  break;
 		  }
 		}
 	  
