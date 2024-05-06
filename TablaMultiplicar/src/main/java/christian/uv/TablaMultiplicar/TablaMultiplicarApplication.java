@@ -41,6 +41,13 @@ public class TablaMultiplicarApplication {
 			  multiplicador(numeroTabla);
 	  
 			  break;
+
+			  case 2:
+			  for (int index = 2; index <= 5; index++) {
+				multiplicador(index);
+	  }
+			  
+			  break;
 		  }
 		}
 	  
